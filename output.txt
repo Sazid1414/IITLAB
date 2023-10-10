@@ -1,0 +1,2 @@
+Enter a string: Left Most Derivation: A1B  0A1B  00A1B  001B  0010B  00101B  00101  Enter a string: 
+Right Most Derivation : A1B  A10B  A100B  A1001B  A10010B  A100101B  A100101  
